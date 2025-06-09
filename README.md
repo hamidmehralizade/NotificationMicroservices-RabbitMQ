@@ -37,5 +37,7 @@ graph LR
 ## 🚀 Quick Start
 ### Clone and run
 git clone https://github.com/hamidmehralizade/NotificationMicroservices-RabbitMQ.git
+
 cd src
+
 docker-compose up -d --build
