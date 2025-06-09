@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "Docker Compose": {
+      "commandName": "DockerCompose",
+      "commandVersion": "1.0",
+      "serviceActions": {
+        "email.api": "StartDebugging",
+        "notification.workers": "StartDebugging",
+        "notification.api": "StartDebugging",
+        "yarpapigateway": "StartDebugging"
+      }
+    }
+  }
+}
